@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.topo{
+	width: 100vw;
+	height: 20vh;
+	background-color: #B0E0E6;
+
+}
+.menu{
+	width: 100vw;
+	height: 10vh;
+	background-color: #E0FFFF;
+
+}
+.container{
+	width: 100vw;
+	height: 60vh;
+	background-color: #F0FFF0;
+}
+
+
+.rodape{
+	width: 100vw;
+	height: 10vh;
+	background-color: #B0E0E6;
+
+}
+
+body{
+	color: black;
+	font-size: 30px;
+	font-family: arial;
+}

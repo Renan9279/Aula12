@@ -1,0 +1,25 @@
+*{
+	margin: 1;
+	padding: 1;
+}
+.topo{
+	width: 97vw;
+	height: 20vh;
+	background-color: aquamarine;
+	text-decoration-color: aqua;
+}
+.menu{
+	width: 97vw;
+	height: 10vh;
+	background-color: aqua;
+}
+.container{
+	width: 97vw;
+	height: 60vh;
+	background-color: red;
+}
+.rodape{
+	width: 97vw;
+	height: 25vh;
+	background-color: white;
+}
